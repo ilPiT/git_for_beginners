@@ -5,7 +5,7 @@
 from core import np
 import importlib
 
-
+#Primo_test_Prova a pullare in una specifica branch dal main
 def yearly_pattern():
     '''
     Definition of a yearly pattern of weekends and weekdays, in case some appliances have specific wd/we behaviour
