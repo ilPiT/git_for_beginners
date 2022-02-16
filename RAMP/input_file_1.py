@@ -9,7 +9,7 @@ Created on Tue Sep 21 10:59:59 2021
 Paper: Energy sufficiency, lowlands.
 SCENARIO 4 
 '''
-
+#jonny oh jonny
 from core import User, np
 User_list = []
 
