@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-#%% Initialisation of a model instance
+#%% Initialisation of a model instance again testing git
 
 from core import np
 import importlib
